@@ -1,0 +1,56 @@
+[{
+  "id": 996,
+  "first_name": "Tomas",
+  "gender": "M",
+  "Tamil": 42,
+  "English": 66,
+  "Maths": 51,
+  "Science": 88,
+  "Social": 86,
+  "Class": 2
+},
+{
+  "id": 997,
+  "first_name": "Shayne",
+  "gender": "F",
+  "Tamil": 38,
+  "English": 21,
+  "Maths": 23,
+  "Science": 72,
+  "Social": 89,
+  "Class": 2
+},
+{
+  "id": 998,
+  "first_name": "Correna",
+  "gender": "F",
+  "Tamil": 39,
+  "English": 57,
+  "Maths": 88,
+  "Science": 75,
+  "Social": 65,
+  "Class": 5
+},
+{
+  "id": 999,
+  "first_name": "Filip",
+  "gender": "M",
+  "Tamil": 75,
+  "English": 61,
+  "Maths": 20,
+  "Science": 32,
+  "Social": 37,
+  "Class": 4
+},
+{
+  "id": 1000,
+  "first_name": "Say",
+  "gender": "M",
+  "Tamil": 72,
+  "English": 66,
+  "Maths": 29,
+  "Science": 50,
+  "Social": 28,
+  "Class": 9
+}
+]
